@@ -1,0 +1,6 @@
+<svg width="392mm" height="396mm" version="1.1" viewBox="0 0 392 396" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path id="a" d="m196 175v-62m-22-23h-31m103 0h-31m-19-53v31" stroke="#000" stroke-width="3"/><use transform="rotate(90 196 198)" xlink:href="#a"/><use transform="rotate(180 196 198)" xlink:href="#a"/><use transform="rotate(-90 196 198)" xlink:href="#a"/>
+ <g font-family="Arial" font-size="42px" text-anchor="middle">
+ <g id="b"><text x="305" y="139">H</text><text x="305" y="284">H</text><text x="377" y="212">H</text></g>
+ <use transform="matrix(-1 0 0 1 394 0)" xlink:href="#b"/><text x="196" y="106">C</text><text x="303" y="213">C</text><text x="196" y="213">C</text><text x="87" y="213">C</text><text x="196" y="321">C</text>
+ <g id="c"><text x="196" y="34">H</text><text x="267" y="106">H</text><text x="124" y="106">H</text></g>
+ <use transform="matrix(1 0 0-1 0 396)" xlink:href="#c"/></g></svg>

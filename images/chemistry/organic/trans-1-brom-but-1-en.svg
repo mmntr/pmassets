@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--?xml version='1.0' encoding='iso-8859-1'?-->
+
+<svg
+   version="1.1"
+   xml:space="preserve"
+   width="650"
+   height="150"
+   viewBox="0 0 650 150"
+   id="svg14"
+   sodipodi:docname="trans-1-brom-but-1-en.svg"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs14" /><sodipodi:namedview
+   id="namedview14"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.72675504"
+   inkscape:cx="348.1228"
+   inkscape:cy="29.583558"
+   inkscape:window-width="1440"
+   inkscape:window-height="863"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg14" />
+<!-- END OF HEADER -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g
+   id="g14"
+   transform="translate(19.25,12.31757)"><path
+     class="bond-3 atom-3 atom-4"
+     d="M 321.8,70.664856 440.4,2.1648559"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     id="path6" /><path
+     id="path9"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="m 454.6,23.264856 -2.9,-1.6 -6.5,3.7 m -129.9,67.5 6.5,3.8 6.5,-3.8 m -142.2,-67.9 5.7,-3.3 6.5,3.7 m -6.5,-3.7 -114.1,65.8 m 114.1,-65.8 130,75 m 0,0 129.9,-75 m 57.7,33.3 -57.7,-33.3 m 115.4,66.6 -57.7,-33.3" /><path
+     class="atom-0"
+     d="m 590.8,95.964856 q 2.7,0.7 4.1,2.4 1.4,1.6 1.4,4.100004 0,3.9 -2.6,6.1 -2.4,2.2 -7.2,2.2 H 577 V 82.464856 h 8.4 q 4.8,0 7.3,2 2.4,1.9 2.4,5.5 0,4.3 -4.3,6 m -10,-10.3 v 8.9 h 4.6 q 2.8,0 4.2,-1.1 1.5,-1.2 1.5,-3.5 0,-4.3 -5.7,-4.3 h -4.6 m 5.7,21.900004 q 2.8,0 4.3,-1.3 1.5,-1.3 1.5,-3.8 0,-2.3 -1.7,-3.500004 -1.6,-1.2 -4.7,-1.2 h -5.1 v 9.800004 h 5.7"
+     fill="#7F4C19"
+     id="path10"
+     style="fill:#000000" /><path
+     class="atom-0"
+     d="m 602.7,90.264856 0.4,2.8 q 2.2,-3.2 5.7,-3.2 1.1,0 2.7,0.4 l -0.6,3.4 q -1.8,-0.4 -2.7,-0.4 -1.7,0 -2.8,0.7 -1.1,0.6 -2,2.2 v 14.600004 h -3.7 V 90.264856 h 3"
+     fill="#7F4C19"
+     id="path11"
+     style="fill:#000000" /><path
+     class="atom-2"
+     d="m 0,82.664856 h 3.9 v 12 h 14.5 v -12 h 3.8 V 110.96486 H 18.4 V 97.864856 H 3.9 V 110.96486 H 0 V 82.664856"
+     fill="#000000"
+     id="path12" /><path
+     class="atom-2"
+     d="m 36.7,115.26486 q 1.8,0.5 2.7,1.7 0.9,1.2 0.9,3 0,1.6 -0.8,2.9 -0.8,1.2 -2.3,1.9 -1.4,0.6 -3.3,0.6 -2,0 -3.5,-0.7 -1.5,-0.7 -2.7,-2.1 l 1.5,-1.5 q 1.2,1.2 2.1,1.7 1,0.5 2.6,0.5 1.7,0 2.7,-0.9 1,-0.9 1,-2.4 0,-1.9 -1.1,-2.7 -1,-0.9 -3.3,-0.9 h -1.4 v -1.9 H 33 q 2.1,0 3.2,-0.9 1,-0.9 1,-2.6 0,-1.2 -0.9,-1.9 -0.9,-0.7 -2.4,-0.7 -1.5,0 -2.5,0.5 -1,0.6 -1.7,2 l -1.8,-1 q 0.6,-1.5 2.2,-2.6 1.6,-1 3.8,-1 2.8,0 4.4,1.3 1.6,1.3 1.6,3.4 0,1.5 -0.8,2.6 -0.9,1.1 -2.4,1.7"
+     fill="#000000"
+     id="path13" /><path
+     class="atom-2"
+     d="m 43.9,96.764856 q 0,-7 3.3,-10.7 3.3,-3.7 9.6,-3.7 5.8,0 9,4.1 l -2.7,2.1 q -2.3,-3 -6.3,-3 -4.3,0 -6.6,2.9 -2.2,2.9 -2.2,8.3 0,5.600004 2.3,8.500004 2.4,2.9 6.9,2.9 3.2,0 6.8,-1.9 l 1.1,3 q -1.5,0.9 -3.7,1.5 -2.2,0.6 -4.7,0.6 -6.2,0 -9.5,-3.8 -3.3,-3.8 -3.3,-10.800004"
+     fill="#000000"
+     id="path14" /></g>
+</svg>
